@@ -11,4 +11,4 @@ Se utilizan las siguientes herramientas:
 #### Por hacer
 
     - Obtener datos desde API
-    - Pulír la presentación
+    - Pulir la presentación
